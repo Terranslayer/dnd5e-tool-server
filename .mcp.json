@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "dnd5e-engine": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--no-sync",
+        "python",
+        "-m",
+        "dnd5e_engine.server"
+      ]
+    }
+  }
+}

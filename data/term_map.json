@@ -1,0 +1,23 @@
+{
+  "monsters": {
+    "goblin": "地精",
+    "skeleton": "骷髅",
+    "zombie": "僵尸"
+  },
+  "spells": {
+    "fireball": "火球术",
+    "magic-missile": "魔法飞弹",
+    "cure-wounds": "疗伤术"
+  },
+  "conditions": {
+    "blinded": "目盲",
+    "charmed": "魅惑",
+    "frightened": "恐慌",
+    "poisoned": "中毒",
+    "prone": "倒地",
+    "grappled": "被擒抱",
+    "restrained": "限制",
+    "stunned": "震慑",
+    "unconscious": "昏迷"
+  }
+}
